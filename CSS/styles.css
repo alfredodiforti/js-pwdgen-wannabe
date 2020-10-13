@@ -1,0 +1,16 @@
+h2 {
+  display: inline-block;
+  font-size: 80px;
+  color: rgb(61, 90, 202);
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
